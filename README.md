@@ -6,12 +6,6 @@
 - 🌱 I’m currently (re)learning **Data Structures and Algorithms**
 
 
-
-### <h2 align="center">Contribution Graph📚</h2>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ajaypep&theme=tokyo-night&hide_border=true)
-
-
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaypep&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 
 <h3 align="left">Languages and Tools:</h3>
